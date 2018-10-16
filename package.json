@@ -9,9 +9,13 @@
   "dependencies": {
     "@0xproject/dev-utils": "^1.0.11",
     "chai": "^4.2.0",
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.0",
     "moment": "^2.22.2",
     "truffle": "5.0.0-beta.1",
-    "web3": "1.0.0-beta.36"
+    "web3": "^1.0.0-beta.36"
   },
   "devDependencies": {},
   "scripts": {
